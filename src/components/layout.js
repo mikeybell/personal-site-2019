@@ -1,11 +1,11 @@
-import React from "react"
-import PropTypes from "prop-types"
-import "../styles/global.css"
+import React from 'react';
+import PropTypes from 'prop-types';
+import '../styles/global.css';
 
-const Layout = ({ children }) => <main>{children}</main>
+const Layout = ({ children }) => <main>{children}</main>;
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
-}
+};
 
-export default Layout
+export default Layout;
