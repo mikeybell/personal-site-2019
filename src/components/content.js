@@ -3,8 +3,8 @@ import React from 'react';
 const Content = () => (
   <>
     <p>
-      I am a Developer from Toronto, currently working on the wonderful team at
-      Looka[link].
+      I am a Developer from Toronto, currently working on the wonderful team at{' '}
+      <a href="https://looka.com">Looka</a>.
     </p>
     <p>
       Development has not always been my thing, however. For over nine years I
@@ -16,8 +16,9 @@ const Content = () => (
     </p>
     <p>
       After spending some time as a Designer/Developer hybrid on the marketing
-      team at Top Hat[link], I found Looka (or they found me I should say) and I
-      have settled into a full time development role.
+      team at <a href="https://tophat.com">Top Hat</a>, I found Looka (or they
+      found me I should say) and I have settled into a full time development
+      role.
     </p>
     <p>
       Some of the languages I work in regularly are HTML, CSS, JS, React/Redux,
@@ -32,8 +33,10 @@ const Content = () => (
       dog, Wella.
     </p>
     <p>
-      If you want to reach out and say hi you can email me[link], or check me
-      out on linked[link] or github[link].
+      If you want to reach out and say hi you can{' '}
+      <a href="mailto:michaelrobertbell@gmail.com">email me</a>, or check me out on{' '}
+      <a href="https://ca.linkedin.com/in/mike-bell-0376b8a">linked</a> or{' '}
+      <a href="https://github.com/mikeybell">github</a>.
     </p>
   </>
 );
