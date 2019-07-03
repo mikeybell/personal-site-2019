@@ -35,8 +35,8 @@ const Content = () => (
     <p>
       If you want to reach out and say hi you can{' '}
       <a href="mailto:michaelrobertbell@gmail.com">email me</a>, or check me out on{' '}
-      <a href="https://ca.linkedin.com/in/mike-bell-0376b8a">linked</a> or{' '}
-      <a href="https://github.com/mikeybell">github</a>.
+      <a href="https://ca.linkedin.com/in/mike-bell-0376b8a">LinkedIn</a> or{' '}
+      <a href="https://github.com/mikeybell">Github</a>.
     </p>
   </>
 );
