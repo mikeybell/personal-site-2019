@@ -6,7 +6,7 @@ import Content from '../components/content';
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Coming soon</h1>
+    <h1>Mike Bell</h1>
     <Content />
   </Layout>
 );
