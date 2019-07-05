@@ -292,6 +292,9 @@ dd {
 p {
   margin-bottom: 1.25rem;
 }
+p:last-of-type {
+  margin-bottom: 2.5rem;
+}
 figure {
   margin-left: 0;
   margin-right: 0;
